@@ -1,2 +1,3 @@
 node_modules
 homeworkSection6.cy.js
+cypress/e2e/module7.cy.js
