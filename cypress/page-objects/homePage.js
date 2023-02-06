@@ -1,3 +1,5 @@
+/// <reference types="Cypress" />
+
 import Urls from "./urls";
 
 const inputsHeader = '#inputs-header'

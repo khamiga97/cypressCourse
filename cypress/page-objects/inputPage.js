@@ -1,3 +1,5 @@
+/// <reference types="Cypress" />
+
 const input = 'input[type="number"]'
 
 class InputPage{
