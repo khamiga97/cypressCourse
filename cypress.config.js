@@ -9,5 +9,6 @@ viewportWidth: 1200,
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
+    baseUrl: 'https://simpletestsite.fabrykatestow.pl'
   },
 });
